@@ -1,0 +1,3 @@
+[submodule "third_part_libs/transcode-tcforge"]
+	path = third_part_libs/transcode-tcforge
+	url = https://github.com/Guang1234567/transcode-tcforge.git

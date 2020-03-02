@@ -1,0 +1,5 @@
+module CBinding_Avi [system] {
+  umbrella header "include/Bridging-Header.h"
+  link "avilib_shared"
+  export *
+}
